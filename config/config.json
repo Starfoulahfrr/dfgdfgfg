@@ -1,0 +1,18 @@
+{
+    "token": "7719047607:AAE-tWMiqZLoPGLXy4mIWmgOtWeje9mrF9Y",
+    "admin_ids": [
+        "5277718388",
+        "5006979687"
+    ],
+    "order_url": null,
+    "order_text": null,
+    "order_telegram": null,
+    "contact_username": null,
+    "catalog_file": "config/catalog.json",
+    "banner_image": "null",
+    "welcome_message": "<b>Bienvenue sur votre bot vitrine</b>\n\n\u26a0\ufe0f<b><u>En cas de soucis avec le Bot relancez le avec la commande </u></b><b><u>/start</u></b>\u26a0\ufe0f\n\n\ud83c\udfacCliquez sur <b><u>MENU</u></b> pour voir les cat\u00e9gories et les articles\ud83c\udfac",
+    "contact_url": null,
+    "info_button_enabled": true,
+    "info_message": "Marquez ici les information que vous souhaitez pour votre bot\n<b>Si vous n&#x27;avez pas besoins, vous pouvez d\u00e9sactiver le bouton d&#x27;information.</b>",
+    "custom_buttons": []
+}

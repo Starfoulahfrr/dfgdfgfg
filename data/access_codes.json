@@ -1,0 +1,45 @@
+{
+    "codes": [
+        {
+            "code": "J7AM2GAN",
+            "expiration": "2025-04-03T03:01:46.444344",
+            "created_by": 7906053337,
+            "used": true
+        },
+        {
+            "code": "8QW862V6",
+            "expiration": "2025-04-03T03:50:34.948177",
+            "created_by": 7906053337,
+            "used": true
+        },
+        {
+            "code": "QQ237DSH",
+            "expiration": "2025-04-04T09:58:16.859877",
+            "created_by": 7906053337,
+            "used": true
+        },
+        {
+            "code": "WRDU497A",
+            "expiration": "2025-04-05T04:38:39.376931",
+            "created_by": 7906053337,
+            "used": true
+        },
+        {
+            "code": "AE8MQPRG",
+            "expiration": "2025-04-05T17:16:52.264593",
+            "created_by": 5277718388,
+            "used": true
+        },
+        {
+            "code": "FVF6NV84",
+            "expiration": "2025-04-15T00:34:21.315784",
+            "created_by": 5277718388,
+            "used": false
+        }
+    ],
+    "authorized_users": [
+        5277718388
+    ],
+    "is_enabled": true,
+    "banned_users": []
+}

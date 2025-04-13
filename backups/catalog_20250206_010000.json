@@ -1,0 +1,37 @@
+{
+    "stats": {
+        "total_views": 53,
+        "category_views": {
+            "test 3": 35
+        },
+        "product_views": {
+            "test 3": {
+                "test modif": 6
+            }
+        },
+        "last_updated": "22:18:25",
+        "last_reset": "2025-02-05"
+    },
+    "test 3": [
+        {
+            "name": "test modif",
+            "price": "fsfsdfsdf",
+            "description": "modification test",
+            "media": [
+                {
+                    "media_id": "AgACAgQAAxkBAAIIVGejwc38oUlLxskXPEiR-9PWlRSmAAJUxzEbm-0hURoFyQpG86agAQADAgADeQADNgQ",
+                    "media_type": "photo",
+                    "order_index": 1
+                }
+            ]
+        }
+    ],
+    "test numéro 2": [
+        {
+            "name": "test prod 1",
+            "price": "test",
+            "description": "test",
+            "media": []
+        }
+    ]
+}

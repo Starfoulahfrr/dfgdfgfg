@@ -1,0 +1,66 @@
+2025-04-02 16:52:32,817 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-02 16:52:32,817 - telegram.ext.Application - INFO - Application started
+2025-04-02 17:02:20,162 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-02 17:02:20,163 - telegram.ext.Application - INFO - Application started
+2025-04-02 17:02:50,053 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-02 17:02:50,054 - telegram.ext.Application - INFO - Application started
+2025-04-02 17:20:46,448 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-02 17:20:46,449 - telegram.ext.Application - INFO - Application started
+2025-04-02 17:21:28,932 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-04-02 17:21:28,933 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-04-02 17:21:28,933 - telegram.ext.Application - INFO - Application.stop() complete
+2025-04-02 17:21:30,538 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-02 17:21:30,539 - telegram.ext.Application - INFO - Application started
+2025-04-02 17:22:00,416 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-04-02 17:22:00,418 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-04-02 17:22:00,419 - telegram.ext.Application - INFO - Application.stop() complete
+2025-04-02 17:22:02,878 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-02 17:22:02,879 - telegram.ext.Application - INFO - Application started
+2025-04-02 17:22:16,741 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-04-02 17:22:16,742 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-04-02 17:22:16,744 - telegram.ext.Application - INFO - Application.stop() complete
+2025-04-02 17:22:18,555 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-02 17:22:18,556 - telegram.ext.Application - INFO - Application started
+2025-04-02 17:56:56,761 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-02 17:56:56,771 - telegram.ext.Application - INFO - Application started
+2025-04-02 18:11:46,006 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-02 18:11:46,006 - telegram.ext.Application - INFO - Application started
+2025-04-02 18:45:34,964 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-02 18:45:34,982 - telegram.ext.Application - INFO - Application started
+2025-04-02 18:46:04,811 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-04-02 18:46:04,811 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-04-02 18:46:04,812 - telegram.ext.Application - INFO - Application.stop() complete
+2025-04-02 18:46:07,704 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-02 18:46:07,704 - telegram.ext.Application - INFO - Application started
+2025-04-02 19:41:46,347 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-02 19:41:46,348 - telegram.ext.Application - INFO - Application started
+2025-04-02 20:05:49,384 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-02 20:05:49,385 - telegram.ext.Application - INFO - Application started
+2025-04-02 20:14:14,770 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-04-02 20:14:14,771 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-04-02 20:14:14,771 - telegram.ext.Application - INFO - Application.stop() complete
+2025-04-02 20:16:31,230 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-02 20:16:31,230 - telegram.ext.Application - INFO - Application started
+2025-04-02 20:21:27,635 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-04-02 20:21:27,635 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-04-02 20:21:27,636 - telegram.ext.Application - INFO - Application.stop() complete
+2025-04-02 20:21:29,315 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-02 20:21:29,316 - telegram.ext.Application - INFO - Application started
+2025-04-02 20:25:24,636 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-02 20:25:24,637 - telegram.ext.Application - INFO - Application started
+2025-04-08 10:42:49,257 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-08 10:42:49,263 - telegram.ext.Application - INFO - Application started
+2025-04-08 10:43:28,780 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-08 10:43:28,781 - telegram.ext.Application - INFO - Application started
+2025-04-11 18:35:32,829 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-11 18:35:32,837 - telegram.ext.Application - INFO - Application started
+2025-04-11 18:36:48,938 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-04-11 18:36:48,938 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-04-11 18:36:48,938 - telegram.ext.Application - INFO - Application.stop() complete
+2025-04-11 18:36:50,596 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-11 18:36:50,597 - telegram.ext.Application - INFO - Application started
+2025-04-11 18:38:27,059 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-04-11 18:38:27,060 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-04-11 18:38:27,060 - telegram.ext.Application - INFO - Application.stop() complete
+2025-04-11 18:38:28,836 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-11 18:38:28,836 - telegram.ext.Application - INFO - Application started

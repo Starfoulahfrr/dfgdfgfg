@@ -1,0 +1,117 @@
+{
+    "stats": {
+        "total_views": 882,
+        "category_views": {
+            "CALI 🇺🇸": 162,
+            "CALI UNBRAND 🇺🇲🇪🇸": 81,
+            "HASH DRY 🍫✨️": 169,
+            "HASH 🍫": 134,
+            "WEED 🍃": 83
+        },
+        "product_views": {
+            "CALI 🇺🇸": {
+                "Doja - Gelonade": 57,
+                "The Ten Co- Sour Shizu": 65,
+                "Doja - Gelonade 🍋": 119,
+                "The Ten Co - Sour Shizu 🍡": 98
+            },
+            "CALI UNBRAND 🇺🇲🇪🇸": {
+                "God Bud": 57,
+                "Sold Out ! ❌️": 25
+            },
+            "HASH DRY 🍫✨️": {
+                "Vvs Frozen": 49,
+                "Vvs FrozenSift 💎🧊": 55,
+                "VVS FrozenSift 💎🧊\n\nRuntz x RS11 🍬\nPapaya Dawg 🥭": 118
+            },
+            "HASH 🍫": {
+                "Rasta Monkey 🐵": 165,
+                "Test": 9
+            },
+            "WEED 🍃": {
+                "Jungle Haze 🌿": 91
+            }
+        },
+        "last_updated": "10:22:51",
+        "last_reset": "2025-02-08"
+    },
+    "CALI 🇺🇸": [
+        {
+            "name": "Doja - Gelonade 🍋",
+            "price": "Bag: 90€",
+            "description": "Top Cali USA ! CaliFarm Officiel !"
+        },
+        {
+            "name": "The Ten Co - Sour Shizu 🍡",
+            "price": "Bag: 90€",
+            "description": "Top Cali Usa ! CaliFarm Officiel !"
+        }
+    ],
+    "CALI UNBRAND 🇺🇲🇪🇸": [
+        {
+            "name": "Sold Out ! ❌️",
+            "price": "Sold Out ! ❌️",
+            "description": "Sold Out ! ❌️"
+        }
+    ],
+    "WEED 🍃": [
+        {
+            "name": "Jungle Haze 🌿",
+            "price": "5g: 40€\n10g: 80€\n25g: 180€\nPour plus contact 📱",
+            "description": "Gamme de Haze TOP Qualité + !"
+        }
+    ],
+    "HASH DRY 🍫✨️": [
+        {
+            "name": "VVS FrozenSift 💎🧊\n\nRuntz x RS11 🍬\nPapaya Dawg 🥭",
+            "price": "5g: 80€\n10g: 150€\n20g: 280€",
+            "description": "FrozenSift 🧊 de chez VVS 💎 ! Qualité au rendez-vous des terps vraiment Top !! 🍬🥭🤪\n\nCliquez sur suivant ou précédent pour voir les photos/vidéos. 🦾",
+            "media": [
+                {
+                    "media_id": "AgACAgQAAxkBAAIBsme8TwX4eMM-nROld4ZmpKJ89ClXAAILzTEb08HoUfyHnoXt5RdSAQADAgADeQADNgQ",
+                    "media_type": "photo",
+                    "order_index": 1
+                },
+                {
+                    "media_id": "BAACAgQAAxkBAAIBuGe8Tzz6OmSjUxV2f8s-NKRtl8msAAIqGgAC08HoUWXa2Hgvtp5bNgQ",
+                    "media_type": "video",
+                    "order_index": 2
+                },
+                {
+                    "media_id": "AgACAgQAAxkBAAIBs2e8TwVqLjDy_r9YbZXlpIcG47EOAAIMzTEb08HoUYeAlX-o4ej8AQADAgADeQADNgQ",
+                    "media_type": "photo",
+                    "order_index": 3
+                },
+                {
+                    "media_id": "BAACAgQAAxkBAAIBume8TzxLmdtj9jt5LBr1ODliBA03AAIrGgAC08HoUUyngUIuvlBNNgQ",
+                    "media_type": "video",
+                    "order_index": 4
+                }
+            ]
+        }
+    ],
+    "HASH 🍫": [
+        {
+            "name": "Rasta Monkey 🐵",
+            "price": "En dessous de 10g = 5€/G\n10g: 40€\nPas plus pour le moment pour cause de pénurie ! 🫢",
+            "description": "Top Mousseux !",
+            "media": [
+                {
+                    "media_id": "AgACAgQAAxkBAAIuUGe-uhe0czR2YZiGoN_yHtjhYoYiAAJRyDEbt6XxUS3puvVi-cKKAQADAgADeAADNgQ",
+                    "media_type": "photo",
+                    "order_index": 1
+                },
+                {
+                    "media_id": "AgACAgQAAxkBAAIuUme-uhtDdeBW_e-vq-iZ3rOFTqnOAAJSyDEbt6XxUcGS1OHI3ijZAQADAgADeAADNgQ",
+                    "media_type": "photo",
+                    "order_index": 2
+                },
+                {
+                    "media_id": "AgACAgQAAxkBAAIuVGe-uh82aAVT3Otwf-cLiJBe-sqAAAJTyDEbt6XxUdfGxOFMx-sVAQADAgADeAADNgQ",
+                    "media_type": "photo",
+                    "order_index": 3
+                }
+            ]
+        }
+    ]
+}

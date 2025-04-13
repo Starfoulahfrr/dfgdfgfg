@@ -1,0 +1,22 @@
+{
+    "stats": {
+        "total_views": 1,
+        "category_views": {
+            "Test": 1
+        },
+        "product_views": {
+            "Test": {
+                "Produit test": 1
+            }
+        },
+        "last_updated": "19:13:47",
+        "last_reset": "2025-04-02"
+    },
+    "Test": [
+        {
+            "name": "Produit test",
+            "price": "122228\n1929292\nZz\nA\nA\n\nZz\nA",
+            "description": "<b>——-</b>"
+        }
+    ]
+}
