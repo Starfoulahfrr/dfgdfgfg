@@ -1,8 +1,7 @@
 {
-    "token": "7719047607:AAE-tWMiqZLoPGLXy4mIWmgOtWeje9mrF9Y",
+    "token": "YOUR_BOT_TOKEN_HERE",
     "admin_ids": [
-        "5277718388",
-        "5006979687"
+        "ADMIN_ID_HERE"
     ],
     "order_url": null,
     "order_text": null,
